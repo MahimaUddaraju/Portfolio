@@ -7,28 +7,12 @@
     max-width: 100%;
   }
 
-  .cert { 
-    background-image: url(aws.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    max-width: 100%;
-  }
-  .div1 {
-    /* Background pattern from Toptal Subtle Patterns */
-       height: 100%;
-       width: 100%;
-       background-image: 
-           url(aws.png),
-           url(project.png);
-       background-repeat: no-repeat, no-repeat;
-    }
+
 
 #header{
   width:100%;
   position:fixed;
-  z-index: 500;
+  z-index: 1;
   top: 0;
   left: 0
 
